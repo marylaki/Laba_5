@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Printer" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Laba_3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAQAA=</HashCode>
+      <FileName>base.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chocolate_konfeta" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAAAAAAgAAAAAAAIAAACAAAAAAABAAAAAAAAIA=</HashCode>
+      <FileName>chocolate_konf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tort" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAACCAAAAAAAAAAAAAQAAABBAAAAAAAkAA=</HashCode>
+      <FileName>dop_class1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Birth_tort" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAADAAwAAAAAAAACQCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dop_class1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Konditer_Izdel" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIEAAAAAAAAAAAAAAAAAAAAQAAAEBACAAAAAAAA=</HashCode>
+      <FileName>koditer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Konfeta" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEIBAAAAAAAAgAAASCAABAAAAAAAAhAAAAAAAAAA=</HashCode>
+      <FileName>konfeta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pechenie" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIAAAAAAABAAAEgAAAAAABAAAAAAAACA=</HashCode>
+      <FileName>pechenie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inspector" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>pechenie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
